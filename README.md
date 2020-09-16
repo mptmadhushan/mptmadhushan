@@ -60,12 +60,12 @@
 
 </details>
 
-<details>
+
   <summary>:zap: Github Stats</summary>
 
 [![mptmadhushan's github stats](https://github-readme-stats.vercel.app/api?username=mptmadhushan)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
