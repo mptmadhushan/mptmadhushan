@@ -47,7 +47,6 @@
 <br />
 <br />
 
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -64,7 +63,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="mptmadhushan's Github Stats" src="https://github-readme-stats.mptmadhushan.vercel.app/api?username=mptmadhushan&show_icons=true&hide_border=true" />
+[![mptmadhushan's github stats](https://github-readme-stats.vercel.app/api?username=mptmadhushan)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
